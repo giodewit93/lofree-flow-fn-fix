@@ -1,3 +1,13 @@
+# 👋 THIS REPOSITORY HAS MOVED! 👋
+
+**This repository is no longer actively maintained on GitHub.**
+
+Please update your bookmarks and remotes to the new home on Codeberg:
+
+➡️ **[https://codeberg.org/alexeygumirov/lofree-flow-fn-fix](https://codeberg.org/alexeygumirov/lofree-flow-fn-fix)** ⬅️
+
+Thank you for your understanding!
+
 # Fix for the Lofree Flow keyboard Fn keys on Linux
 
 The issue with the Lofree Flow keyboard is that it cannot recognize Linux system correctly.
